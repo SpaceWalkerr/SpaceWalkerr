@@ -1,37 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&section=header&color=0:020617,18:0f172a,40:111827,62:312e81,82:0891b2,100:22d3ee&text=Suraj%20Nandan&fontSize=76&fontColor=ffffff&fontAlignY=36&desc=I%20build%20software%20that%20looks%20sharp,%20thinks%20smart,%20and%20ships%20fast.&descSize=18&descAlignY=57&animation=fadeIn" alt="Suraj Nandan animated banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&color=0:020617,15:0f172a,35:111827,55:312e81,75:0e7490,100:22d3ee&text=Suraj%20Nandan&fontSize=78&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Automation%20Engineer&descSize=18&descAlignY=57&animation=twinkling" alt="Animated Suraj Nandan banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=90&lines=Full-Stack+Developer+%E2%9C%A6+AI+Systems+Builder+%E2%9C%A6+Automation+Engineer;I+turn+ideas+into+fast%2C+scalable%2C+real-world+products." alt="Animated identity headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=1600&pause=450&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=1050&height=105&lines=Building+products+that+move%2C+think%2C+scale%2C+and+ship.;Web+%E2%9C%A6+Mobile+%E2%9C%A6+AI+%E2%9C%A6+Cloud+%E2%9C%A6+Automation;If+it+solves+a+real+problem%2C+I+want+to+build+it." alt="Animated headline" />
 
 <br />
 
 <a href="https://linkedin.com/in/surajnandan">
-  <img src="https://img.shields.io/badge/ENTER%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1700&pause=700&color=FFFFFF&background=0A66C2&center=true&vCenter=true&width=210&height=38&lines=LINKEDIN+%E2%86%92;PROFESSIONAL+SIGNAL;CONNECT+WITH+ME" alt="LinkedIn animated link" />
 </a>
 <a href="mailto:surajnandan78@gmail.com">
-  <img src="https://img.shields.io/badge/SEND%20SIGNAL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1700&pause=700&color=FFFFFF&background=D14836&center=true&vCenter=true&width=210&height=38&lines=EMAIL+%E2%86%92;START+A+CONVERSATION;SEND+A+SIGNAL" alt="Email animated link" />
 </a>
 <a href="https://instagram.com/surajnandan_">
-  <img src="https://img.shields.io/badge/VISUAL%20FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617" alt="Instagram" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1700&pause=700&color=FFFFFF&background=E4405F&center=true&vCenter=true&width=210&height=38&lines=INSTAGRAM+%E2%86%92;VISUAL+SIDE;FOLLOW+THE+BUILD" alt="Instagram animated link" />
 </a>
+
+<br /><br />
+
 <img src="https://komarev.com/ghpvc/?username=SpaceWalkerr&style=for-the-badge&color=22d3ee&label=PROFILE+VISITS" alt="Profile visits" />
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:a78bfa,70:34d399,100:22d3ee" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,25:a78bfa,50:34d399,75:facc15,100:22d3ee&animation=twinkling" alt="Animated divider" />
 
 </div>
 
 <div align="center">
 
-### `SYSTEM BOOT: SPACEWALKERR`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1300&pause=350&color=A7F3D0&center=true&vCenter=true&width=900&lines=%3E+loading+product+instinct...;%3E+connecting+frontend+to+backend...;%3E+training+AI+workflow...;%3E+deploying+to+cloud...;%3E+shipping+the+thing." alt="Animated system boot text" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=900&pause=250&color=A7F3D0&center=true&vCenter=true&width=900&height=55&lines=%3E+SYSTEM+BOOT:+SPACEWALKERR;%3E+product+instinct+online;%3E+frontend+engine+online;%3E+backend+core+online;%3E+AI+workflow+online;%3E+deployment+pipeline+online;%3E+ready+to+ship" alt="Animated system boot" />
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=22D3EE&vCenter=true&width=360&height=32&lines=Who+I+Am;What+I+Build;Why+It+Matters" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=22D3EE&vCenter=true&width=430&height=34&lines=01+%E2%80%A2+Who+I+Am;01+%E2%80%A2+What+I+Build;01+%E2%80%A2+Why+It+Matters" alt="Animated section title" />
+
+<img align="right" width="360" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1200&pause=450&color=A78BFA&center=true&vCenter=true&width=360&height=180&lines=think+like+a+builder;design+like+a+user;ship+like+an+engineer;iterate+like+a+product+team;automate+what+repeats;scale+what+works" alt="Animated builder principles" />
 
 I am a full-stack developer focused on building **real products**, not just pretty demos. I work across web, mobile, backend, AI, automation, cloud, and data-driven systems.
 
@@ -41,26 +44,30 @@ My favorite work lives where engineering meets product: clean architecture, fast
 const suraj = {
   username: "SpaceWalkerr",
   role: "Full-Stack Developer",
-  builds: ["AI-powered apps", "automation systems", "cloud platforms", "mobile experiences"],
+  builds: ["AI apps", "automation systems", "cloud platforms", "mobile experiences"],
   edge: "product thinking + engineering execution",
-  standard: "make it useful, make it scalable, make it unforgettable"
+  standard: "useful, scalable, unforgettable"
 };
 ```
 
+<br clear="right" />
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=95&color=0:020617,50:111827,100:0e7490&text=Build%20Mode:%20Practical%20Innovation&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Build mode banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:020617,35:111827,70:0e7490,100:22d3ee&text=BUILD%20MODE:%20PRACTICAL%20INNOVATION&fontSize=27&fontColor=ffffff&animation=twinkling" alt="Animated build mode banner" />
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=A78BFA&vCenter=true&width=430&height=32&lines=Command+Centers;Execution+Zones;What+I+Can+Own" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=A78BFA&vCenter=true&width=500&height=34&lines=02+%E2%80%A2+Command+Centers;02+%E2%80%A2+Execution+Zones;02+%E2%80%A2+What+I+Can+Own" alt="Animated section title" />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Product Engineering</h3>
+      <h3>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1400&pause=500&color=22D3EE&vCenter=true&width=290&height=28&lines=Product+Engineering;Complete+Apps;Usable+Systems" alt="Product engineering animated title" />
+      </h3>
       <p>
-        I build interfaces, APIs, dashboards, auth flows, databases, and deployment pipelines
+        Interfaces, APIs, dashboards, auth flows, databases, and deployment pipelines
         that come together as complete usable products.
       </p>
       <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -68,9 +75,11 @@ const suraj = {
       <img src="https://img.shields.io/badge/NestJS-020617?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
     </td>
     <td width="50%" valign="top">
-      <h3>AI and Automation</h3>
+      <h3>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1400&pause=500&color=34D399&vCenter=true&width=290&height=28&lines=AI+and+Automation;Smarter+Workflows;Useful+Intelligence" alt="AI and automation animated title" />
+      </h3>
       <p>
-        I design workflows that reduce repetitive work, connect tools, use data intelligently,
+        Workflows that reduce repetitive work, connect tools, use data intelligently,
         and turn AI from a buzzword into a working feature.
       </p>
       <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
@@ -80,20 +89,24 @@ const suraj = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cloud and Scale</h3>
+      <h3>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1400&pause=500&color=FACC15&vCenter=true&width=290&height=28&lines=Cloud+and+Scale;Reliable+Launches;Systems+That+Hold" alt="Cloud and scale animated title" />
+      </h3>
       <p>
-        I care about how software behaves after launch: performance, reliability,
-        maintainability, and deployment that does not feel fragile.
+        Performance, reliability, maintainability, and deployment pipelines
+        that keep software stable after launch.
       </p>
       <img src="https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
       <img src="https://img.shields.io/badge/GCP-020617?style=flat-square&logo=google-cloud&logoColor=4285F4" alt="Google Cloud" />
       <img src="https://img.shields.io/badge/Firebase-020617?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
     </td>
     <td width="50%" valign="top">
-      <h3>Mobile and Experience</h3>
+      <h3>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1400&pause=500&color=F472B6&vCenter=true&width=290&height=28&lines=Mobile+and+UX;Fast+Feedback;Polished+Flows" alt="Mobile and UX animated title" />
+      </h3>
       <p>
-        I like products that feel polished: clear flows, smooth states, fast feedback,
-        and interfaces that help users move without friction.
+        Clear flows, smooth states, fast feedback, and interfaces
+        that help users move without friction.
       </p>
       <img src="https://img.shields.io/badge/React%20Native-020617?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/Kotlin-020617?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
@@ -104,13 +117,17 @@ const suraj = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:34d399,45:22d3ee,70:a78bfa,100:34d399" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:34d399,30:22d3ee,65:a78bfa,100:34d399&animation=twinkling" alt="Animated divider" />
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=34D399&vCenter=true&width=380&height=32&lines=Tech+Universe;Tools+I+Use;Stack+I+Ship" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=34D399&vCenter=true&width=460&height=34&lines=03+%E2%80%A2+Tech+Universe;03+%E2%80%A2+Tools+I+Use;03+%E2%80%A2+Stack+I+Ship" alt="Animated section title" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=950&pause=220&color=E2E8F0&center=true&vCenter=true&width=900&height=45&lines=TypeScript+%E2%86%92+React+%E2%86%92+Node+%E2%86%92+Cloud;Python+%E2%86%92+AI+%E2%86%92+Data+%E2%86%92+Automation;Mobile+%E2%86%92+UX+%E2%86%92+APIs+%E2%86%92+Product" alt="Animated stack flow" />
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,express,nestjs,python,java,kotlin,cpp,c,html,tailwind,sass,threejs,aws,gcp,firebase,mongodb,mysql,prisma,git,github,gitlab&perline=9" alt="Technology icons" />
 
@@ -130,9 +147,13 @@ const suraj = {
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=FACC15&vCenter=true&width=390&height=32&lines=Live+GitHub+Pulse;Dynamic+Developer+Data;Proof+Of+Motion" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=FACC15&vCenter=true&width=520&height=34&lines=04+%E2%80%A2+Live+GitHub+Pulse;04+%E2%80%A2+Dynamic+Developer+Data;04+%E2%80%A2+Proof+Of+Motion" alt="Animated section title" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1000&pause=250&color=A7F3D0&center=true&vCenter=true&width=900&height=45&lines=commits+tell+the+story;graphs+show+the+rhythm;streaks+show+the+discipline;shipping+is+the+signal" alt="Animated GitHub pulse copy" />
+
+<br />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpaceWalkerr&bg_color=020617&color=e2e8f0&line=22d3ee&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph" />
 
@@ -157,9 +178,13 @@ const suraj = {
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=F472B6&vCenter=true&width=430&height=32&lines=Achievement+Layer;Recognition+Board;Open+Source+Footprint" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=F472B6&vCenter=true&width=560&height=34&lines=05+%E2%80%A2+Achievement+Layer;05+%E2%80%A2+Recognition+Board;05+%E2%80%A2+Open+Source+Footprint" alt="Animated section title" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1200&pause=350&color=F9A8D4&center=true&vCenter=true&width=900&height=45&lines=learning+in+public;building+in+motion;improving+with+every+project;collecting+proof%2C+not+noise" alt="Animated recognition copy" />
+
+<br />
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SpaceWalkerr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
@@ -169,28 +194,28 @@ const suraj = {
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=500&color=22D3EE&vCenter=true&width=450&height=32&lines=Connect+With+Intent;Build+Something+Sharp;Let's+Make+It+Real" alt="Animated section title" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=22D3EE&vCenter=true&width=560&height=34&lines=06+%E2%80%A2+Connect+With+Intent;06+%E2%80%A2+Build+Something+Sharp;06+%E2%80%A2+Let's+Make+It+Real" alt="Animated section title" />
 
 <div align="center">
 
 <a href="https://linkedin.com/in/surajnandan">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:020617,100:0A66C2&text=LinkedIn%20%7C%20Professional%20Signal&fontSize=20&fontColor=ffffff&animation=twinkling" alt="LinkedIn professional signal" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:020617,45:111827,100:0A66C2&text=LinkedIn%20%7C%20Professional%20Signal%20%7C%20Let's%20Connect&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Animated LinkedIn link" />
 </a>
 
 <a href="mailto:surajnandan78@gmail.com">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:020617,100:D14836&text=Email%20%7C%20Start%20A%20Conversation&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Email start a conversation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:020617,45:111827,100:D14836&text=Email%20%7C%20Start%20A%20Conversation%20%7C%20Build%20Together&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Animated email link" />
 </a>
 
 <a href="https://instagram.com/surajnandan_">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:020617,100:E4405F&text=Instagram%20%7C%20Visual%20Side&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Instagram visual side" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:020617,45:111827,100:E4405F&text=Instagram%20%7C%20Visual%20Side%20%7C%20Follow%20The%20Build&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Animated Instagram link" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,35:111827,70:312e81,100:0891b2&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:020617,30:111827,55:312e81,78:0e7490,100:22d3ee&animation=twinkling" alt="Animated footer wave" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=If+it+solves+a+real+problem%2C+I+want+to+build+it.;If+it+can+be+automated%2C+I+want+to+make+it+smarter.;If+it+can+scale%2C+I+want+to+ship+it+clean." alt="Animated closing line" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&duration=1600&pause=450&color=22D3EE&center=true&vCenter=true&width=1000&height=85&lines=If+it+solves+a+real+problem%2C+I+want+to+build+it.;If+it+can+be+automated%2C+I+want+to+make+it+smarter.;If+it+can+scale%2C+I+want+to+ship+it+clean.;If+it+feels+ordinary%2C+I+want+to+make+it+unforgettable." alt="Animated closing line" />
 
 </div>
