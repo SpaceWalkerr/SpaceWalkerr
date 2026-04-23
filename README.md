@@ -34,8 +34,6 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=22D3EE&vCenter=true&width=430&height=34&lines=01+%E2%80%A2+Who+I+Am;01+%E2%80%A2+What+I+Build;01+%E2%80%A2+Why+It+Matters" alt="Animated section title" />
 
-<img align="right" width="360" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1200&pause=450&color=A78BFA&center=true&vCenter=true&width=360&height=180&lines=think+like+a+builder;design+like+a+user;ship+like+an+engineer;iterate+like+a+product+team;automate+what+repeats;scale+what+works" alt="Animated builder principles" />
-
 I am a full-stack developer focused on building **real products**, not just pretty demos. I work across web, mobile, backend, AI, automation, cloud, and data-driven systems.
 
 My favorite work lives where engineering meets product: clean architecture, fast interfaces, intelligent workflows, and systems that feel effortless to use.
@@ -50,7 +48,11 @@ const suraj = {
 };
 ```
 
-<br clear="right" />
+<div align="center">
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1200&pause=450&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=think+like+a+builder;design+like+a+user;ship+like+an+engineer;iterate+like+a+product+team;automate+what+repeats;scale+what+works" alt="Animated builder principles" />
+
+</div>
 
 <div align="center">
 
