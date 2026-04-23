@@ -6,6 +6,9 @@
 
 <br />
 
+<a href="https://surajnandan.in">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1700&pause=700&color=020617&background=22D3EE&center=true&vCenter=true&width=230&height=38&lines=LIVE+PORTFOLIO+%E2%86%92;SEE+THE+WORK;SURAJNANDAN.IN" alt="Portfolio animated link" />
+</a>
 <a href="https://linkedin.com/in/surajnandan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1700&pause=700&color=FFFFFF&background=0A66C2&center=true&vCenter=true&width=210&height=38&lines=LINKEDIN+%E2%86%92;PROFESSIONAL+SIGNAL;CONNECT+WITH+ME" alt="LinkedIn animated link" />
 </a>
@@ -42,6 +45,7 @@ My favorite work lives where engineering meets product: clean architecture, fast
 const suraj = {
   username: "SpaceWalkerr",
   role: "Full-Stack Developer",
+  portfolio: "surajnandan.in",
   builds: ["AI apps", "automation systems", "cloud platforms", "mobile experiences"],
   edge: "product thinking + engineering execution",
   standard: "useful, scalable, unforgettable"
@@ -199,6 +203,10 @@ const suraj = {
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1500&pause=450&color=22D3EE&vCenter=true&width=560&height=34&lines=06+%E2%80%A2+Connect+With+Intent;06+%E2%80%A2+Build+Something+Sharp;06+%E2%80%A2+Let's+Make+It+Real" alt="Animated section title" />
 
 <div align="center">
+
+<a href="https://surajnandan.in">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:020617,45:111827,100:22D3EE&text=Portfolio%20%7C%20See%20The%20Work%20%7C%20surajnandan.in&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Animated portfolio link" />
+</a>
 
 <a href="https://linkedin.com/in/surajnandan">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:020617,45:111827,100:0A66C2&text=LinkedIn%20%7C%20Professional%20Signal%20%7C%20Let's%20Connect&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Animated LinkedIn link" />
