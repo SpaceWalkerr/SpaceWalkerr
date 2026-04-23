@@ -18,6 +18,101 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpaceWalkerr&theme=github_dark" />
 </p>
+
+
+
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h3 align="center">🚀 I build systems, not just projects</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Automation+Builder;n8n+%7C+Scalable+Systems;Turning+Ideas+into+Real+Products" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SpaceWalkerr">
+    <img src="https://komarev.com/ghpvc/?username=SpaceWalkerr&label=Profile+Views&color=00ffaa&style=flat" />
+  </a>
+</p>
+
+---
+
+## 🧠 Who I Am
+
+I don’t just code — I build **practical systems that solve real problems**.
+
+- ⚙️ Full-stack developer focused on **scalable architectures**
+- 🤖 Building **AI-powered & automation-driven products**
+- 🧩 Strong interest in **problem-solving, not tutorial projects**
+- 🚀 Currently exploring **n8n, AI workflows, and product engineering**
+
+---
+
+## ⚡ What I'm Doing Right Now
+
+- 🔭 Building **real-world SaaS & automation systems**
+- 🧠 Learning **advanced backend + system design**
+- 🤝 Open to collaborate on **serious projects / startups**
+- ⚡ Optimizing workflows using **AI + automation**
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,nestjs,mongodb,mysql,aws,gcp,firebase,tailwind,threejs,git,github&perline=10" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpaceWalkerr&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SpaceWalkerr&theme=github-dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceWalkerr&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> Most developers build projects to learn.  
+> I build systems to solve problems.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/surajnandan_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/surajnandan">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:surajnandan78@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I prefer building things that **people actually use** over things that just look good on resumes.
+
+---
+
+<!-- OPTIONAL FLEX SECTION -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SpaceWalkerr&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajnandan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajnandan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajnandan78@gmail.com) 
 
