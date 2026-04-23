@@ -1,7 +1,23 @@
 # 💫 About Me:
-Hi, I'm Suraj 👋  <br>I build practical tech — from full-stack apps to AI-powered systems.  <br>Focused on solving real-world problems with scalable and efficient solutions.  <br>Always exploring new tools, automation, and product-driven development.
 
+<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h3 align="center">🚀 Building real-world tech that actually matters</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Products;Always+Learning+New+Tech" />
+</p>
+
+---
+
+- 🔭 Currently building **AI-powered & full-stack systems**
+- 🤝 Open to collaborate on **startups, SaaS & automation projects**
+- ⚡ Exploring **n8n, AI workflows, and scalable architectures**
+- 🌱 Constantly learning & shipping real-world products
+- 💬 Ask me about **React, Backend, AI, Automation**
+- 🎯 Goal: Build products that **solve actual problems, not just projects**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpaceWalkerr&theme=github_dark" />
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajnandan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajnandan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajnandan78@gmail.com) 
 
