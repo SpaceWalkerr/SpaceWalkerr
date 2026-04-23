@@ -1,69 +1,116 @@
-# 💫 About Me:
-
+<!-- HERO -->
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">🚀 Building real-world tech that actually matters</h3>
+<h3 align="center">🚀 I build systems that solve real problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Products;Always+Learning+New+Tech" />
-</p>
-
----
-
-- 🔭 Currently building **AI-powered & full-stack systems**
-- 🤝 Open to collaborate on **startups, SaaS & automation projects**
-- ⚡ Exploring **n8n, AI workflows, and scalable architectures**
-- 🌱 Constantly learning & shipping real-world products
-- 💬 Ask me about **React, Backend, AI, Automation**
-- 🎯 Goal: Build products that **solve actual problems, not just projects**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpaceWalkerr&theme=github_dark" />
-</p>
-
-
-
-<!-- HERO SECTION -->
-<h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">🚀 I build systems, not just projects</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Automation+Builder;n8n+%7C+Scalable+Systems;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Automation+Builder;n8n+Workflows+%7C+Scalable+Systems;Turning+Ideas+into+Real+Products" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SpaceWalkerr">
-    <img src="https://komarev.com/ghpvc/?username=SpaceWalkerr&label=Profile+Views&color=00ffaa&style=flat" />
+  <a href="https://surajnandan.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-00ffaa?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SpaceWalkerr&label=Profile+Views&color=00ffaa&style=flat" />
 </p>
 
 ---
 
 ## 🧠 Who I Am
 
-I don’t just code — I build **practical systems that solve real problems**.
+I don’t build projects for resumes — I build **products that people actually use**.
 
-- ⚙️ Full-stack developer focused on **scalable architectures**
-- 🤖 Building **AI-powered & automation-driven products**
-- 🧩 Strong interest in **problem-solving, not tutorial projects**
-- 🚀 Currently exploring **n8n, AI workflows, and product engineering**
-
----
-
-## ⚡ What I'm Doing Right Now
-
-- 🔭 Building **real-world SaaS & automation systems**
-- 🧠 Learning **advanced backend + system design**
-- 🤝 Open to collaborate on **serious projects / startups**
-- ⚡ Optimizing workflows using **AI + automation**
+- ⚙️ Full-stack developer focused on **real-world systems**
+- 🤖 Building **AI-powered & automation-driven platforms**
+- 🔁 Creating workflows using **n8n & smart integrations**
+- 🚀 Interested in **SaaS, scalable products & startups**
 
 ---
 
-## 🛠 Tech Arsenal
+## 🔥 What I’m Building
+
+- 💻 AI-powered systems & dashboards  
+- 🌐 Full-stack web applications  
+- ⚡ Automation pipelines (forms → sheets → email → workflows)  
+- 🧠 Problem-solving products (not tutorial clones)
+
+---
+## 🚀 Featured Projects
+
+### ✈️ SkyWings — Airline Reservation System
+A full-stack airline booking platform with **dynamic flight search, seat selection, and automated PDF boarding passes**.  
+Built with secure backend architecture using **Supabase + PostgreSQL (RLS + triggers)** for real-time booking logic.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Supabase • REST API • PDF Generation  
+🔗 [Live Demo](https://surajnandan.in)
+
+---
+
+### ⚖️ Sutan Legal Corp — Legal Services Platform
+A scalable legal-tech platform with **dynamic attorney directories, logic-based intake workflows, and appointment automation**.  
+Designed with a structured relational database for handling complex legal relationships.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Tailwind CSS • REST API  
+🔗 [Live Demo](https://surajnandan.in)
+
+---
+
+### 🛒 Luxe — E-Commerce Platform
+A complete e-commerce system with **secure payments, cart management, order tracking, and admin dashboard**.  
+Includes **Stripe integration + authentication + analytics**.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Stripe • REST API  
+🔗 [Live Demo](https://surajnandan.in)
+
+---
+
+### 🌦 Mausam — Real-Time Weather App
+A responsive weather app with **live forecasts, geolocation tracking, and dynamic visualizations**.  
+Optimized for clean UX and real-time updates.
+
+**Tech:** React • JavaScript • Weather API • Geolocation • CSS3  
+🔗 [Live Demo](https://surajnandan.in)
+
+---
+
+### 🚗 IntelliRideX — Autonomous Vehicles Research
+Deep learning-based research project focused on **real-time object detection, path planning, and decision systems** for autonomous driving.
+
+**Tech:** Python • TensorFlow • OpenCV • Neural Networks • Computer Vision  
+🔗 [Details](https://surajnandan.in)
+
+---
+
+### 🎮 Classic Games Collection
+A collection of browser-based games (**Sudoku, 2048, Snake, Tic-Tac-Toe**) with smooth animations and responsive gameplay.
+
+**Tech:** JavaScript • HTML5 • CSS3 • Game Logic  
+🔗 [Play](https://surajnandan.in)
+
+---
+
+### 🌌 City of Noctura — Interactive Story Experience
+An immersive storytelling platform with **branching narratives and dynamic user-driven outcomes**.
+
+**Tech:** JavaScript • HTML5 • CSS3  
+🔗 [Experience](https://surajnandan.in)
+
+## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,nestjs,mongodb,mysql,aws,gcp,firebase,tailwind,threejs,git,github&perline=10" />
-
 </p>
+
+---
+
+## 🌐 My Ecosystem
+
+- 🌍 Website: https://surajnandan.in  
+- 📸 Instagram: https://instagram.com/surajnandan_  
+- 💼 LinkedIn: https://linkedin.com/in/surajnandan  
+- 📩 Email: surajnandan78@gmail.com  
 
 ---
 
@@ -82,37 +129,29 @@ I don’t just code — I build **practical systems that solve real problems**.
 
 ## 🧠 Philosophy
 
-> Most developers build projects to learn.  
-> I build systems to solve problems.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/surajnandan_">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/surajnandan">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:surajnandan78@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+> Most developers follow tutorials.  
+> I build things that solve real problems.
 
 ---
 
 ## ⚡ Fun Fact
 
-I prefer building things that **people actually use** over things that just look good on resumes.
+I focus more on **impact & usability** than just writing code.
 
 ---
 
-<!-- OPTIONAL FLEX SECTION -->
+## 🏆 Achievements
+
+- 🥈 Secured **2nd Place in Ideathon**
+- 🚀 Built multiple real-world systems & automation workflows
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SpaceWalkerr&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajnandan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajnandan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajnandan78@gmail.com) 
 
