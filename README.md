@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:17171a,60:17171a,100:8a2a2a&text=Suraj%20Nandan&fontSize=72&fontColor=e9e4d6&fontAlignY=38&desc=Full-Stack%20%26amp%3B%20AI%20Engineer&descSize=20&descAlignY=58" alt="Suraj Nandan — Full-Stack & AI Engineer" />
+<img width="100%" src="./assets/banner.png" alt="Suraj Nandan — Full-Stack & AI Engineer" />
 
 ### Reliable web products and grounded AI systems, built end to end.
 
