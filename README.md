@@ -16,20 +16,20 @@
 
 I'm **Suraj Nandan**, a full-stack and AI engineer from Kishanganj, India, studying Computer Science at SRM IST, Delhi NCR. I like to own a problem from end to end — the data model, the API, the interface — and I care most about software people can trust: it behaves the same way every time, explains itself, and fails honestly when it has to.
 
-> 🏆 **Campus Winner, ACG Pack A Pitch 2.0** (Technology & Engineering) · 🥇 **NPTEL Gold Medal**, Human Computer Interaction
+<a href="https://surajnandan.in/#certifications"><img width="100%" src="./assets/honours.png" alt="Honours: Campus Winner, ACG Pack A Pitch 2.0 · NPTEL Gold Medal, IIT Delhi · First Place, Innovate 2024 · Lead Coordinator, Viksit Bharat 2047 · Campus Mantri, GeeksforGeeks" /></a>
 
 ## 📰 The Front Page
 
 <p align="center">
   <a href="https://surajnandan.in/projects/knot-ai"><img width="49%" src="./assets/cards/knot-ai.png" alt="Knot.ai — a spoken AI interview panel whose report can only quote the candidate" /></a>
-  <a href="https://surajnandan.in/projects/hospitality-ai"><img width="49%" src="./assets/cards/hospitality-ai.png" alt="Hospitality.ai — insurance-aware hospital navigation with source-verified citations" /></a>
-  <a href="https://surajnandan.in/projects/cardbridge"><img width="49%" src="./assets/cards/cardbridge.png" alt="CardBridge — a marketplace whose escrow rules are enforced by PostgreSQL" /></a>
+  <a href="https://surajnandan.in/projects/hospitality-ai"><img width="49%" src="./assets/cards/hospitality-ai.gif" alt="Hospitality.ai — insurance-aware hospital navigation with source-verified citations" /></a>
+  <a href="https://surajnandan.in/projects/cardbridge"><img width="49%" src="./assets/cards/cardbridge.gif" alt="CardBridge — a marketplace whose escrow rules are enforced by PostgreSQL" /></a>
   <a href="https://surajnandan.in/projects/job-scheduler"><img width="49%" src="./assets/cards/job-scheduler.png" alt="Job Scheduler — distributed job scheduling on PostgreSQL with SKIP LOCKED" /></a>
-  <a href="https://surajnandan.in/projects/gigshield"><img width="49%" src="./assets/cards/gigshield.png" alt="GigShield — parametric income protection for delivery riders" /></a>
+  <a href="https://surajnandan.in/projects/gigshield"><img width="49%" src="./assets/cards/gigshield.gif" alt="GigShield — parametric income protection for delivery riders" /></a>
   <a href="https://surajnandan.in"><img width="49%" src="./assets/cards/portfolio.png" alt="The Nandan Review — my portfolio, set like a newspaper" /></a>
 </p>
 
-<p align="center"><sub>Every card opens a full case study — the brief, the architecture, the decisions, and what broke along the way.</sub></p>
+<p align="center"><sub>The moving clippings are live captures of each site. Every card opens a full case study — the brief, the architecture, the decisions, and what broke along the way.</sub></p>
 
 ## 📊 By the Numbers
 
@@ -40,12 +40,27 @@ I'm **Suraj Nandan**, a full-stack and AI engineer from Kishanganj, India, study
   </picture>
 </a>
 
-<sub>Redrawn every morning from the live stats on surajnandan.in.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpaceWalkerr/SpaceWalkerr/main/assets/languages-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/SpaceWalkerr/SpaceWalkerr/main/assets/languages-light.svg" alt="Languages across my repositories, by bytes of code" />
+</picture>
+
+<sub>Scoreboard, type specimen and snake are redrawn every morning from live data.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpaceWalkerr/SpaceWalkerr/output/snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/SpaceWalkerr/SpaceWalkerr/output/snake-light.svg" alt="A snake eating the last year of contributions" />
 </picture>
+
+## ✍️ Latest from the Op-Ed
+
+<!-- OPED:START -->
+- **[Building CardBridge: An Escrow-Powered Card Discount Marketplace](https://surajnandan.in/blog/building-cardbridge)** · <sub>Aug 2026</sub><br/><sub>How I built a card-discount marketplace where the rules live in Postgres: a trigger-enforced escrow state machine, an immutable event log, KYC tiers,…</sub>
+- **[GigShield: Parametric Income Insurance for Gig Workers](https://surajnandan.in/blog/gigshield-parametric-insurance)** · <sub>Apr 2026</sub><br/><sub>What our team of three built for delivery riders who lose a day's pay to rain or bad air — and the trigger engine, payout lifecycle and fraud checks…</sub>
+- **[Designing "The Press": A Newspaper-Themed Design System](https://surajnandan.in/blog/press-design-system)** · <sub>Jun 2025</sub><br/><sub>Behind the scenes of the design system powering this portfolio — brutalist punch meets newspaper soul with atelier polish.</sub>
+<!-- OPED:END -->
+
+<sub>Updated daily from the <a href="https://surajnandan.in/rss.xml">RSS feed</a>.</sub>
 
 ## 🛠️ How I Work
 

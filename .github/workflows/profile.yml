@@ -19,7 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scoreboard:
+  live-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,12 +28,18 @@ jobs:
           node-version: 20
       - name: Draw the scoreboard
         run: node .github/scripts/scoreboard.mjs
-      - name: Commit if it changed
+      - name: Draw the type specimen
+        run: node .github/scripts/languages.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: List the latest articles
+        run: node .github/scripts/oped.mjs
+      - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/scoreboard-light.svg assets/scoreboard-dark.svg
-          git diff --staged --quiet || (git commit -m "Refresh scoreboard" && git push)
+          git add README.md assets/scoreboard-*.svg assets/languages-*.svg
+          git diff --staged --quiet || (git commit -m "Refresh live profile data" && git push)
 
   snake:
     runs-on: ubuntu-latest
