@@ -1,0 +1,54 @@
+# Keeps the profile's live pieces fresh:
+#  - the Scoreboard (LeetCode + contributions), drawn from surajnandan.in's own endpoints
+#  - the contribution snake, in the portfolio's paper/ink/vermilion colours
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 2 * * *" # daily, 07:47 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  scoreboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Draw the scoreboard
+        run: node .github/scripts/scoreboard.mjs
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/scoreboard-light.svg assets/scoreboard-dark.svg
+          git diff --staged --quiet || (git commit -m "Refresh scoreboard" && git push)
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SpaceWalkerr
+          outputs: |
+            dist/snake-light.svg?color_snake=#c6392b&color_dots=#dcd6c6,#c9b39a,#b07c62,#8a2a2a,#17171a
+            dist/snake-dark.svg?palette=github-dark&color_snake=#e9e4d6&color_dots=#232328,#4a3431,#7a3f38,#b0443a,#e8604a
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Refresh contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
