@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="74" viewBox="0 0 830 74" role="img" aria-label="Filed by department">
+  <rect width="830" height="74" fill="#141417"/>
+  <line x1="20" y1="18" x2="810" y2="18" stroke="#e8e4d9" stroke-width="1.5"/>
+  <line x1="20" y1="22" x2="810" y2="22" stroke="#e8e4d9" stroke-width="1.5"/>
+  <text x="20" y="50" fill="#e8604a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.6">SECTION E · THE TOOLBOX</text>
+  <text x="810" y="52" fill="#e8e4d9" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" text-anchor="end">Filed by department</text>
+  <line x1="20" y1="64" x2="810" y2="64" stroke="#e8e4d9" stroke-width="1"/>
+</svg>

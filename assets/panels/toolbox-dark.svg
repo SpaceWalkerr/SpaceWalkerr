@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="190" viewBox="0 0 830 190" role="img" aria-label="Toolbox: React, Next.js, TypeScript, Tailwind, Three.js, Node.js, Express, Fastify, REST, WebSockets, PostgreSQL, Supabase, Prisma, SQLite, pgvector, Claude API, RAG, Python, Java, Vercel">
+  <rect width="830" height="190" fill="#141417"/>
+  
+  <text x="20" y="40" fill="#e8604a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4">FRONT END</text>
+  <rect x="20" y="58" width="7" height="7" fill="#e8e4d9"/><text x="36" y="65" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">React</text>
+  <rect x="20" y="81" width="7" height="7" fill="#e8e4d9"/><text x="36" y="88" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Next.js</text>
+  <rect x="20" y="104" width="7" height="7" fill="#e8e4d9"/><text x="36" y="111" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">TypeScript</text>
+  <rect x="20" y="127" width="7" height="7" fill="#e8e4d9"/><text x="36" y="134" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Tailwind</text>
+  <rect x="20" y="150" width="7" height="7" fill="#e8e4d9"/><text x="36" y="157" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Three.js</text>
+  <line x1="217.5" y1="20" x2="217.5" y2="170" stroke="rgba(232,228,217,0.14)" stroke-width="1"/>
+  <text x="233.5" y="40" fill="#e8604a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4">BACK END</text>
+  <rect x="233.5" y="58" width="7" height="7" fill="#e8e4d9"/><text x="249.5" y="65" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Node.js</text>
+  <rect x="233.5" y="81" width="7" height="7" fill="#e8e4d9"/><text x="249.5" y="88" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Express</text>
+  <rect x="233.5" y="104" width="7" height="7" fill="#e8e4d9"/><text x="249.5" y="111" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Fastify</text>
+  <rect x="233.5" y="127" width="7" height="7" fill="#e8e4d9"/><text x="249.5" y="134" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">REST</text>
+  <rect x="233.5" y="150" width="7" height="7" fill="#e8e4d9"/><text x="249.5" y="157" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">WebSockets</text>
+  <line x1="415" y1="20" x2="415" y2="170" stroke="rgba(232,228,217,0.14)" stroke-width="1"/>
+  <text x="431" y="40" fill="#e8604a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4">DATA</text>
+  <rect x="431" y="58" width="7" height="7" fill="#e8e4d9"/><text x="447" y="65" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">PostgreSQL</text>
+  <rect x="431" y="81" width="7" height="7" fill="#e8e4d9"/><text x="447" y="88" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Supabase</text>
+  <rect x="431" y="104" width="7" height="7" fill="#e8e4d9"/><text x="447" y="111" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Prisma</text>
+  <rect x="431" y="127" width="7" height="7" fill="#e8e4d9"/><text x="447" y="134" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">SQLite</text>
+  <rect x="431" y="150" width="7" height="7" fill="#e8e4d9"/><text x="447" y="157" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">pgvector</text>
+  <line x1="612.5" y1="20" x2="612.5" y2="170" stroke="rgba(232,228,217,0.14)" stroke-width="1"/>
+  <text x="628.5" y="40" fill="#e8604a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4">AI &amp; MORE</text>
+  <rect x="628.5" y="58" width="7" height="7" fill="#e8e4d9"/><text x="644.5" y="65" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Claude API</text>
+  <rect x="628.5" y="81" width="7" height="7" fill="#e8e4d9"/><text x="644.5" y="88" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">RAG</text>
+  <rect x="628.5" y="104" width="7" height="7" fill="#e8e4d9"/><text x="644.5" y="111" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Python</text>
+  <rect x="628.5" y="127" width="7" height="7" fill="#e8e4d9"/><text x="644.5" y="134" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Java</text>
+  <rect x="628.5" y="150" width="7" height="7" fill="#e8e4d9"/><text x="644.5" y="157" fill="#e8e4d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6">Vercel</text>
+  <rect x="0" y="185" width="830" height="5" fill="#e8604a"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="150" viewBox="0 0 830 150" role="img" aria-label="How I work: keep the model’s job small; the database is the referee; measure, then ship.">
+  <rect width="830" height="150" fill="#141417"/>
+  
+  <text x="20" y="42" fill="#e8604a" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22">I.</text>
+  <text x="20" y="68" fill="#e8e4d9" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="12.5" letter-spacing="0.3">KEEP THE MODEL’S JOB SMALL</text>
+  <text x="20" y="96" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">Let the LLM judge and phrase;</text>
+  <text x="20" y="117" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">put the guarantees in code.</text>
+  <line x1="283.3333333333333" y1="20" x2="283.3333333333333" y2="126" stroke="rgba(232,228,217,0.14)" stroke-width="1"/>
+  <text x="301.3333333333333" y="42" fill="#e8604a" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22">II.</text>
+  <text x="301.3333333333333" y="68" fill="#e8e4d9" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="12.5" letter-spacing="0.3">THE DATABASE IS THE REFEREE</text>
+  <text x="301.3333333333333" y="96" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">Transactions, state machines and</text>
+  <text x="301.3333333333333" y="117" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">row-level security over intentions.</text>
+  <line x1="546.6666666666666" y1="20" x2="546.6666666666666" y2="126" stroke="rgba(232,228,217,0.14)" stroke-width="1"/>
+  <text x="564.6666666666666" y="42" fill="#e8604a" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22">III.</text>
+  <text x="564.6666666666666" y="68" fill="#e8e4d9" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="12.5" letter-spacing="0.3">MEASURE, THEN SHIP</text>
+  <text x="564.6666666666666" y="96" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">Code-split, cached, tested — and</text>
+  <text x="564.6666666666666" y="117" fill="#a39f96" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14.5">written up after, mistakes included.</text>
+  <rect x="0" y="145" width="830" height="5" fill="#e8604a"/>
+</svg>
