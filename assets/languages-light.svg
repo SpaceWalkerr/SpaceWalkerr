@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="214" viewBox="0 0 830 214" role="img" aria-label="Languages across Suraj Nandan's repositories: TypeScript 61%, JavaScript 32%, Python 4.7%, PLpgSQL 2.0%, Java 0.6%">
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="214" viewBox="0 0 830 214" role="img" aria-label="Languages across Suraj Nandan's repositories: TypeScript 60%, JavaScript 32%, Python 4.6%, PLpgSQL 2.0%, Java 0.6%">
   <rect width="830" height="214" fill="#e9e4d6"/>
   <line x1="20" y1="22" x2="810" y2="22" stroke="#17171a" stroke-width="1.5"/>
   <line x1="20" y1="26" x2="810" y2="26" stroke="#17171a" stroke-width="1.5"/>
   <text x="20" y="46" fill="#8a2a2a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.6">TYPE SPECIMEN · LANGUAGES ON FILE</text>
   <text x="810" y="46" fill="#57534a" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" text-anchor="end">by bytes of code, across my own repositories</text>
   <line x1="20" y1="56" x2="810" y2="56" stroke="#17171a" stroke-width="1"/>
-  <rect x="20.0" y="78" width="478.2" height="16" fill="#17171a"><title>TypeScript 61%</title></rect><rect x="498.2" y="78" width="254.9" height="16" fill="#8a2a2a"><title>JavaScript 32%</title></rect><rect x="753.1" y="78" width="36.8" height="16" fill="#c6392b"><title>Python 4.7%</title></rect><rect x="789.9" y="78" width="15.6" height="16" fill="#57534a"><title>PLpgSQL 2.0%</title></rect><rect x="805.5" y="78" width="4.5" height="16" fill="#b07c62"><title>Java 0.6%</title></rect>
+  <rect x="20.0" y="78" width="477.5" height="16" fill="#17171a"><title>TypeScript 60%</title></rect><rect x="497.5" y="78" width="255.8" height="16" fill="#8a2a2a"><title>JavaScript 32%</title></rect><rect x="753.3" y="78" width="36.7" height="16" fill="#c6392b"><title>Python 4.6%</title></rect><rect x="789.9" y="78" width="15.6" height="16" fill="#57534a"><title>PLpgSQL 2.0%</title></rect><rect x="805.5" y="78" width="4.5" height="16" fill="#b07c62"><title>Java 0.6%</title></rect>
   <rect x="20" y="120" width="10" height="10" fill="#17171a"/>
   <text x="36" y="130" fill="#17171a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">TYPESCRIPT</text>
-  <text x="20" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">61%</text><rect x="178" y="120" width="10" height="10" fill="#8a2a2a"/>
+  <text x="20" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">60%</text><rect x="178" y="120" width="10" height="10" fill="#8a2a2a"/>
   <text x="194" y="130" fill="#17171a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">JAVASCRIPT</text>
   <text x="178" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">32%</text><rect x="336" y="120" width="10" height="10" fill="#c6392b"/>
   <text x="352" y="130" fill="#17171a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">PYTHON</text>
-  <text x="336" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">4.7%</text><rect x="494" y="120" width="10" height="10" fill="#57534a"/>
+  <text x="336" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">4.6%</text><rect x="494" y="120" width="10" height="10" fill="#57534a"/>
   <text x="510" y="130" fill="#17171a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">PLPGSQL</text>
   <text x="494" y="164" fill="#17171a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="26" letter-spacing="-1">2.0%</text><rect x="652" y="120" width="10" height="10" fill="#b07c62"/>
   <text x="668" y="130" fill="#17171a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">JAVA</text>
